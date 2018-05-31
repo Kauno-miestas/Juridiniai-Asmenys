@@ -1,0 +1,250 @@
+Nr.,Kodas,"Įmonės, įstaigos pavadinimas",Addresas,Latitude,Longitude,Įmonės / įstaigos kontaktinis telefonas,Įmonės / įstaigos el. paštas,Įmonės / įstaigos tinklapio adresas
+1,235014830,AB „Kauno energija“,"Raudondvario pl. 84, Kaunas, Lithuania",54.907594,23.872995,30 56 50,info@kaunoenergija.lt,http://www.kaunoenergija.lt/
+2,133154754,UAB „Kauno autobusai“,"Raudondvario pl. 105, Kaunas, Lithuania",54.907017,23.869302,36 25 09,administracija@kaunoautobusai.lt,http://www.kaunoautobusai.lt/
+3,132751369,UAB „Kauno vandenys“,"Aukštaičių g. 43, Kaunas, Lithuania",54.902638,23.926846,30 17 01,ofisas@kaunovandenys.lt,https://www.kaunovandenys.lt/
+4,132616649,UAB „Kauno švara“,"Statybininkų g. 3, Kaunas, Lithuania",54.920127,23.947304,31 43 23,info@svara.lt,http://www.svara.lt/
+5,132684155,UAB „Kauno gatvių apšvietimas“,"Ringuvos g. 59, Kaunas, Lithuania",54.867268,23.951905,40 02 40,info@kaunosviesa.lt,http://www.kaunogatviuapsvietimas.lt/
+6,133370321,UAB „Kauno aikštelė“,"V. Krėvės pr. 42, Kaunas, Lithuania",54.917659,23.969113,8 650 74558,kaunoaikstele@gmail.com,http://kaunoaikstele.lt/
+7,233923260,UAB „Stoties turgus“,"M. K. Čiurlionio g. 25B, Kaunas, Lithuania",54.88768,23.932147,"22 48 82, 22 05 26,                      ",direkcija@stotiesturgus.lt,http://www.stotiesturgus.lt/
+8,133607044,UAB „Centrinis knygynas“,"Laisvės al. 81, Kaunas, Lithuania",54.897438,23.908745,22 31 01,centrinisknygynas@gmail.com,---
+9,135641038,UAB Laboratorinių bandymų centras,"R. Kalantos g. 85A, Kaunas, Lithuania",54.895676,23.998789,45 77 72,lbc@lbc.lt,http://lbc.lt/
+10,132532496,UAB Kauno butų ūkis,"Chemijos g. 18, Kaunas, Lithuania",54.902095,23.987773,35 03 64,info@kbu.lt,http://kbu.lt/
+11,132626180,Kauno SĮ „Kapinių priežiūra“,"Savanorių pr. 347 , Kaunas, Lithuania",54.922489,23.955849,20 89 54,info@kaunokapiniuprieziura.lt,http://kaunokapiniuprieziura.lt/
+12,133810450,Kauno SĮ „Kauno planas“,"Kęstučio g. 66A, Kaunas, Lithuania",54.895921,23.910629,22 01 46,info@kaunoplanas.lt,http://kaunoplanas.lt/
+13,135502259,VšĮ „Kauno miesto aplinkos kokybės tyrimai“,"Vileikos g. 8-128, Kaunas, Lithuania",54.894397,23.951656,45 33 22                                                8 677 79606,j.kameneckas@gmail.com,http://193.219.38.28/
+14,300092998,VšĮ Kauno regiono atliekų tvarkymo centras,"Statybininkų g. 3, Kaunas, Lithuania",54.920127,23.947304,31 12 67,info@kaunoratc.lt,http://www.kaunoratc.lt/
+15,136004852,VšĮ Kauno regioninė energetikos agentūra,"Breslaujos g. 3B, Kaunas, Lithuania",54.896312,23.953329,"49 10 43
+","info@krea.lt
+krea@techpark.lt",www.krea.lt
+16,135087311,VšĮ S. Dariaus ir S. Girėno aerodromas,"Veiverių g. 132 / Karo Aviacijos g. 3, Kaunas, Lithuania",54.877849,23.890092,39 15 48,aleksotoaerodromas@gmail.com,www.aleksotasair.lt
+17,135695071,VšĮ Kauno regiono plėtros agentūra,"Laisvės al. 46, Kaunas, Lithuania",54.897414,23.916617,"40 88 08
+861017002",kaunas.rda@krda.lt,www.krda.lt
+18,134929849,VšĮ „Automobilių stovėjimo aikštelės“,"Puodžių g. 24-1, Kaunas, Lithuania",54.894766,23.899727,32 16 48,asa@parkavimaskaune.lt,www.parkavimaskaune.lt
+19,135047555,VšĮ Kauno Šilainių poliklinika,"Baltų pr. 7, Kaunas, Lithuania",54.930475,23.889552,30 15 91,info@silainiupoliklinika.lt,http://www.silainiupoliklinika.lt/sil/
+20,135041869,VŠĮ Kauno Šančių poliklinika,"A. Juozapavičiaus pr. 72       , Kaunas, Lithuania",54.872549,23.936541,34 20 24,info@sanciupoliklinika.lt,http://www.sanciupoliklinika.lt/
+21,135044630,Všį Kauno Kalniečių poliklinika,"Savanorių pr. 369                    , Kaunas, Lithuania",54.923336,23.959566,31 16 81,info@kalnieciupoliklinika.lt,http://www.kalnieciupoliklinika.lt/
+22,135042622,VšĮ Kauno Centro poliklinika,"A. Mickevičiaus g. 4                              , Kaunas, Lithuania",54.893615,23.917362,40 92 00,info@centropoliklinika.lt,http://www.centropoliklinika.lt/
+23,135042394,VšĮ Kauno Dainavos poliklinika,"Pramonės pr. 31, Kaunas, Lithuania",54.914068,23.984094,40 39 99,info@dainavospoliklinika.lt,http://www.dainavospoliklinika.lt
+24,304159063,BĮ „Kauno biudžetinių įstaigų buhalterinė apskaita“,"T. Masiulio g. 10 , Kaunas, Lithuania",54.890184,24.004091,8 685 65431,biudzetiniu.istaigu.buhalterine.apskaita@kaunas.lt,www.kba.lt
+25,304295469,VšĮ „Nacionalinis žiedas“,"Nemuno g. 20, Gaižėnėlių km., Kauno raj., Kaunas, Lithuania",54.895981,23.89908,8 610 92349,info@nemunoziedas.lt,www.nemunoziedas.lt
+26,133556183,VšĮ S. Dariaus ir S. Girėno sporto centras,"Perkūno al. 5, Kaunas, Lithuania",54.89622,23.93548,20 05 14       ,info@sportohale.lt,http://sportohale.lt/
+27,303463871,VšĮ Aleksoto teniso centras,"Veiverių g. 151, Kaunas, Lithuania",54.863625,23.888577,,,
+28,303477440,"VšĮ „Kelininko"" stadionas","Aukštaičių g. 51, Kaunas, Lithuania",54.90426,23.930272,,admin@ollo.lt,
+29,304599447,VšĮ „Krepšinio namai“,"Įstaigos buveinė - Jogailos g. 9, Vilniaus m. sav., Vilniaus miestas, Kaunas, Lithuania",54.898086,23.906589,,,
+30,304471351,Kauno sporto mokykla „Startas“,"Miško g. 3, Kaunas, Lithuania",54.893475,23.923349,42 23 52,info@smstartas.lt,http://www.smstartas.lt/
+31,190141496,Kauno sporto mokykla „Tauras“,"Neries krant. 7B, Kaunas, Lithuania",54.909259,23.893241,26 26 78,info@futbolomokykla.lt ,http://www.kaunotauras.lt/
+32,190140818,Kauno krepšinio mokykla „Aisčiai“,"Miško g. 3, Kaunas, Lithuania",54.893475,23.923349,32 02 35    8 650 47331,kaunasbs@gmail.com,http://kmaisciai.lt/
+33,195470111,Kauno plaukimo mokykla,"Demokratų g. 34, Kaunas, Lithuania",54.918046,23.901492,36 20 91,kpm@swim.lt,http://swim.lt/
+34,295096180,Kauno žiemos sporto mokykla „Baltų ainiai“,"Aušros g. 42C, Kaunas, Lithuania",54.90366,23.927719,33 51 81,baltuainiai@ledoarena.com,http://www.ledoarena.lt/
+35,195096375,Kauno sporto mokykla „Bangpūtys“,"R. Kalantos g. 124, Kaunas, Lithuania",54.893789,24.023787,38 44 40  arba  40 76 74,mokykla.sailing@gmail.com,http://bangputys.weebly.com/
+36,304184262,Kauno sporto mokykla „Gaja“,"Partizanų g. 180, Kaunas, Lithuania",54.929166,23.990634,42 34 79,smgaja@gmail.com,http://smgaja.lt/
+37,135134113,VšĮ K. Griniaus slaugos ir palaikomojo gydymo ligoninė,"Kruonio g. 21, Kaunas, Lithuania",54.885394,23.980433,"34 59 85
+8 687 70110",info@kgriniausligonine.lt,http://www.kgriniausligonine.lt/
+38,135082150,VšĮ Kauno Panemunės slaugos ir palaikomojo gydymo ligoninė,"Raudonojo kryžiaus g. 1, Kaunas, Lithuania",54.872731,23.985332,34 61 85,rastine@panemune.lt,http://panemune.lt/
+39,135044783,VšĮ Kauno slaugos ligoninė,"Armatūrininkų g. 4, Kaunas, Lithuania",54.888706,24.003662,37 04 30        8 614 74791,info@kaunoslauga.lt,http://kaunoslauga.lt
+40,235042580,VšĮ Kauno miesto greitosios medicinos pagalbos stotis,"Pramonės pr. 33, Kaunas, Lithuania",54.914841,23.984321,40 86 79,kaunogmp@greitojipagalba.lt,http://greitojipagalba.lt/
+41,301162638,VšĮ „DOMUS PACIS“ (DP),"Papilio g. 9, Kaunas, Lithuania",54.897954,23.883543,"8 682 47794
+22 46 59",info@domuspacis.lt,www.domuspacis.lt
+42,302573681,VšĮ Kauno tvirtovės parkas,"M. Daukšos g. 34, Kaunas, Lithuania",54.898158,23.892059,"8 635 57462 
+8 682 57002",kauno.tvirtoves.projektai@gmail.com,http://atfort.kaunas.lt/
+43,302921554,VšĮ „Prisikėlimo projektai“,"Aukštaičių g. 6, Kaunas, Lithuania",54.904898,23.920982,22 92 22,parapija@prisikelimas.lt,
+44,303311148,VšĮ „Domus laudis“,"Benediktinų g. 10, Kaunas, Lithuania",54.89925,23.894078,8 686 92646,domuslaudis@gmail.com,
+45,303339489,VšĮ „Karmelitų projektai“,"Gedimino g. 5A, Kaunas, Lithuania",54.890342,23.9204,8 614 05600,projektaikarmelitu@gmail.com,
+46,303224896,VšĮ „Soboro projektai“,"Nepriklausomybės a. 14, Kaunas, Lithuania",54.897041,23.921477,,soboroprojektai@gmail.com,
+47,300618836,VšĮ Kauno architektūros ir urbanistikos ekspertų taryba,"Vilniaus g. 22, Kaunas, Lithuania",54.896397,23.89065,42 22 48,,
+48,135491916,VšĮ „Kaunas IN“,"Mickevičiaus g. 58, Kaunas, Lithuania",54.900348,23.918239,8 616 23828,info@kaunasin.lt,www.visit.kaunas.lt
+49,300710505,VšĮ Pažaislio kultūros ir turizmo centras,"T. Masiulio g. 31, Kaunas, Lithuania",54.876286,24.022278,45 88 68,info@pazaislis.org,www.pazaislis.org
+50,135550072,BĮ Kauno kultūros centras „Tautos namai“,"Vytauto pr. 71, Kaunas, Lithuania",54.894495,23.924555,32 06 61,info@tautosnamai.lt,www.tautosnamai.lt
+51,300154670,BĮ Kauno miesto muziejus,"Rotušės a. 15, Kaunas, Lithuania",54.896884,23.885915,20 79 47,muziejus@kaunomuziejus.lt,www.kaunomuziejus.lt
+52,290145360,BĮ Kauno miesto savivaldybės Vinco Kudirkos viešoji biblioteka,"Laisvės al. 57, Kaunas, Lithuania",54.897322,23.913471,22 63 22,nomedadom@kaunas.mvb.lt,www.kaunas.mvb.lt
+53,190149767,BĮ koncertinė įstaiga Kauno miesto simfoninis orkestras,"M. Daukšos g. 34, Kaunas, Lithuania",54.898158,23.892059,20 45 89,kaunosimfoninis@yahoo.com,www.kaunosimfoninis.lt
+54,302877054,BĮ Koncertinė įstaiga „Kauno santaka“,"L. Zamenhofo g. 6, Kaunas, Lithuania",54.895374,23.89275,22 03 85,info@kaunosantaka.lt,www.kaunosantaka.lt
+55,188204249,BĮ Kauno menininkų namai,"V.Putvinskio g. 56, Kaunas, Lithuania",54.900987,23.912232,22 31 44,kmn@kmn.lt,http://www.kmn.lt/
+56,188205874,BĮ Kauno šokio teatras „Aura“,"M. Daukšos g. 30A, Kaunas, Lithuania",54.898028,23.892304,20 20 62,info@aura.lt,www.aura.lt
+57,135977117,VšĮ „Girstučio“ kultūros ir sporto centras,"Kovo 11-osios g. 26, Kaunas, Lithuania",54.906599,23.974001,45 64 90,rumai@girstutis.lt,www.girstutis.lt
+58,304157265,VšĮ Kauno miesto kamerinis teatras,"Kęstučio g. 74A, Kaunas, Lithuania",54.896566,23.907795,20 15 39,info@kamerinisteatras.lt,www.kamerinisteatras.lt
+59,304497759,VšĮ „Kaunas 2022“,"Vytauto pr. 69, Kaunas, Lithuania",54.894141,23.924758,,info@kaunas2022.eu,www.kaunas2022.eu
+60,132082597,BĮ Kauno kino centras „Romuva“,"Laisvės al. 54, Kaunas, Lithuania",54.897734,23.915601,20 27 88,info@kcromuva.lt,www.kcromuva.lt
+61,135890769,VšĮ „Teatro projektai“,"Laisvės al. 99-19, Kaunas, Lithuania",54.897626,23.902138,"22 53 18
+ 8 687 29628",info@teatroprojektai.lt,www.stylem.lt
+62,300022409,VšĮ Kauno įvairių tautų kultūrų centras,"Šv. Gertrūdos g. 58, Kaunas, Lithuania",54.89887,23.893186,426680,info@minority.lt ,www.minority.lt
+63,300567434,VšĮ „Artkomas“,"Šiaurės pr. 5-15, Kaunas, Lithuania",54.929743,23.967874,8 616 43643,artkomas@gmail.com,http://www.artkomas.lt
+64,302618703,VšĮ Prezidento Valdo Adamkaus biblioteka – muziejus,"S. Daukanto g. 25, Kaunas, Lithuania",54.898547,23.913603,75 10 47,adamkuslibrary@gmail.com,www.adamkuslibrary.lt
+65,300531121,VšĮ „Mano teatras“,"Kęstučio g. 62, Kaunas, Lithuania",54.895968,23.911258,8 682 14209,nijolelepes@gmail.com,-
+66,301676575,Kauno miesto savivaldybės visuomenės sveikatos biuras,"Aušros g. 42A, Kaunas, Lithuania",54.905236,23.928909,45 47 17,administracija@kaunovsb.lt ,http://www.kaunovsb.lt/ 
+67,304084529,Kauno miesto Aleksoto vietos veiklos grupė,"Veiverių g. 132, Kaunas, Lithuania",54.875728,23.890972,8 698 58895,arunas.samochinas@gmail.com,http://www.aleksotas.lt/articles/view/201
+68,304084109,Kauno miesto Žaliakalnio vietos veiklos grupė,"Partizanų g. 5, Kaunas, Lithuania",54.913201,23.943878,8 616 13981,zaliakalnio.vvg@gmail.com,http://www.xn--aliakalniovvg-v5c.lt/
+69,135144374,Kauno kartų namai,"Sąjungos a. 13A, Kaunas, Lithuania",54.911321,23.894926,36 35 46,info@kartunamai.lt,http://www.kartunamai.lt/
+70,135950440,Kauno miesto socialinių paslaugų centras,"Partizanų g. 38D, Kaunas, Lithuania",54.917727,23.959863,32 24 62,info@kaunospc.lt ,http://www.kaunospc.lt/
+71,135135553,Kauno neįgaliojo jaunimo užimtumo centras,"Danų g. 15, Kaunas, Lithuania",54.870304,23.935689,49 04 15,info@nju.lt,http://www.nju.lt/lt/
+72,191830124,Kauno savivaldybės vaikų globos namai,"Birutės g. 29A, Kaunas, Lithuania",54.871051,23.96854,74 55 30,svgn@svgn.kaunas.lm.lt,http://www.musuvaikai.lt/
+73,235144560,Vaikų gerovės centras „Pastogė“,"P. Plechavičiaus g. 21, Kaunas, Lithuania",54.929316,23.948689,31 39 12,pastoge@kalnieciai.lt,http://pastoge.lt/
+74,304447941,VšĮ Kauno Panemunės socialinės globos namai,"Kurtinių g. 1D, Kaunas, Lithuania",54.865327,23.977147,40 75 14,info@kaunoseneliai.lt,http://www.kaunoseneliai.lt/
+75,191633714,Kauno Aleksoto lopšelis-darželis,"Antanavos g. 17, Kaunas, Lithuania",54.885319,23.897102,39 15 93,darzelis@aleksotas.kaunas.lm.lt ,http://www.aleksotas.kaunas.lm.lt
+76,191638070,Kauno lopšelis-darželis „Atžalėlė“,"K. Donelaičio g. 9A, Kaunas, Lithuania",54.897715,23.923385,20 95 87,darzelis@atzalele.kaunas.lm.lt,http://www.atzalele.kaunas.lm.lt
+77,191640865,Kauno lopšelis-darželis „Aušrinė“,"Baltų pr. 49, Kaunas, Lithuania",54.92747,23.882499,37 75 28                                         ,ausrine.vpc@dokeda.lt,http://www.ausrine.lt/
+78,191635341,Kauno lopšelis-darželis „Aviliukas“,"A. Mackevičiaus g. 101, Kaunas, Lithuania",54.903325,23.909158,42 28 90,aviliukasvd@gmail.com,http://www.aviliukas.net/
+79,291642340,Kauno lopšelis-darželis „Ąžuoliukas“,"Margio g. 17, Kaunas, Lithuania",54.892225,23.935612,42 33 20,azuoliukas.kaunas@gmail.com,www.kaunoazuoliukas.lt
+80,191638451,Kauno lopšelis-darželis „Bitutė“,"Taikos pr. 10, Kaunas, Lithuania",54.910629,23.939782,73 24 59,ldbitute50@gmail.com,http://www.bitute.kaunas.lm.lt
+81,195473374,Kauno  lopšelis-darželis „Boružėlė“,"Bitininkų g. 19, Kaunas, Lithuania",54.865024,23.89853,42 01 65 ,ldboruzele@gmail.com,http://www.ld-boruzele.lt/
+82,191635722,Kauno lopšelis-darželis „Čiauškutis“,"Prancūzų g. 68A, Kaunas, Lithuania",54.891192,23.951029,34 80 39,ciauskutis.darzelis@gmail.com,http://lopselisdarzelis.lt/
+83,191637698,Kauno lopšelis-darželis „Daigelis“,"Žagarės g. 5, Kaunas, Lithuania",54.909359,23.862677,26 65 63,lddaigelis@gmail.com,http://daigelis.mir.lt
+84,191633333,Kauno lopšelis-darželis „Dobilėlis“,"Panerių g. 44, Kaunas, Lithuania",54.908966,23.886963,36 35 30,dobilelis@mikrovisata.net,http://www.dobilelis.mir.lt
+85,191634969,Kauno lopšelis-darželis „Drevinukas“,"R.Kalantos g. 116, Kaunas, Lithuania",54.892899,24.009225,45 40 63,drevinukas1@gmail.com,http://www.drevinukas.kaunas.lm.lt
+86,291637350,Kauno lopšelis-darželis „Eglutė“,"A. ir J. Gravrogkų g. 11, Kaunas, Lithuania",54.898281,23.971919,35 14 96,darzeliseglute@hotmail.com,http://www.eglute.kaunas.lm.lt
+87,191828810,Kauno lopšelis-darželis „Ežiukas“,"A. Mapu g. 12, Kaunas, Lithuania",54.897602,23.893355,42 34 43,eziukas4@gmail.com,http://www.darzeliseziukas.lt/
+88,191634392,Kauno lopšelis-darželis „Gandriukas“,"Ukmergės g. 19, Kaunas, Lithuania",54.927174,23.933439,38 65 99,ldg@gandriukas.kaunas.lm.lt,http://www.gandriukas.kaunas.lm.lt
+89,191639172,Kauno lopšelis-darželis „Giliukas“,"Apuolės g. 29, Kaunas, Lithuania",54.917522,23.885377,75 50 22,giliuk@giliukas.kaunas.lm.lt,http://www.giliukas.kaunas.lm.lt
+90,191641052,Kauno lopšelis-darželis „Gintarėlis“,"Baltijos g. 28, Kaunas, Lithuania",54.923705,23.886499,37 75 75,l.d.gintarelis@gmail.com,http://www.kaunogintarelis.lt
+91,191633529,Kauno lopšelis-darželis „Girinukas“,"Partizanų g. 52, Kaunas, Lithuania",54.920389,23.963577,31 28 99,girinukas@dokeda.lt,http://www.girinukas.kaunas.lm.lt
+92,191642535,Kauno lopšelis-darželis „Girstutis“,"Kovo 11-osios g. 25B, Kaunas, Lithuania",54.907452,23.971041,45 46 49,girstutis.darzelis@gmail.com,http://www.girstutis.kaunas.lm.lt 
+93,191638113,Kauno lopšelis-darželis „Klausutis“,"Kovo 11-osios g. 14, Kaunas, Lithuania",54.90381,23.974878,45 43 09,ld@klausutis.kaunas.lm.lt,http://www.klausutis.lt
+94,191642720,Kauno lopšelis-darželis „Klevelis“,"Griunvaldo g. 26A, Kaunas, Lithuania",54.892926,23.918972,42 24 48,klevelis@gmail.com,http://www.klevelis.lt/
+95,191640299,Kauno lopšelis-darželis „Klumpelė“,"Pienių g. 14, Kaunas, Lithuania",54.943081,23.883016,37 75 81,klumpele.darzelis@gmail.com,http://www.klumpele.lt/
+96,191641967,Kauno lopšelis-darželis „Kodėlčiukas“,"S. Raštikio g. 21, Kaunas, Lithuania",54.918519,23.939885,31 40 73,info@kodelciukas.com,http://www.kodelciukas.kaunas.lm.lt/
+97,191640146,Kauno lopšelis-darželis „Kregždutė“,"P. Plechavičiaus g. 21, Kaunas, Lithuania",54.929316,23.948689,31 24 50,kregzdute95@gmail.com,http://www.ldkregzdute.lt/
+98,191633290,Kauno lopšelis-darželis „Kūlverstukas“,"Birželio 23-iosios g. 21, Kaunas, Lithuania",54.913299,23.951512,73 17 32,ld.kulverstukas@yahoo.com,http://www.kulverstukas.kaunas.lm.lt/
+99,191641629,Kauno lopšelis-darželis „Lakštutė“,"Parko g. 10, Kaunas, Lithuania",54.911208,24.062546,37 35 88,dlakstute@yahoo.com,http://www.lakstute.kaunas.lm.lt
+100,191639553,Kauno lopšelis-darželis „Liepaitė“,"K. Genio g. 7, Kaunas, Lithuania",54.916025,23.919237,73 24 68,liepaitedarzelis@gmail.com,http://liepaite.lt
+101,191638832,Kauno lopšelis-darželis „Linelis“,"Savanorių pr. 236A, Kaunas, Lithuania",54.914796,23.945857,31 23 35,darzelis_linelis@inbox.lt,http://www.linelis.kaunas.lm.lt/
+102,191638266,Kauno lopšelis-darželis „Malūnėlis“,"Kovo 11-osios g. 48, Kaunas, Lithuania",54.908876,23.978967,35 12 46,malunelis@hotmail.com,http://www.ldmalunelis.lt
+103,191639934,Kauno lopšelis-darželis „Mažylis“,"P. Plechavičiaus g. 13, Kaunas, Lithuania",54.929003,23.945954,38 67 35,darz.mazylis@gmail.com,http://www.mazylisld.lt
+104,191641586,Kauno lopšelis-darželis „Naminukas“,"Ašigalio g. 39, Kaunas, Lithuania",54.933046,23.930508,38 66 08                                           8 671 39404,naminukas39@gmail.com ,http://www.ldnaminukas.lt
+105,191642873,Kauno lopšelis-darželis „Nežiniukas“,"Vakarų g. 14, Kaunas, Lithuania",54.909875,23.9585,73 35 42,neziniukasdarzelis@gmail.com,http://www.neziniukas.ikimokyklinis.lt
+106,191641771,Kauno lopšelis-darželis „Obelėlė“,"K. Baršausko g. 76, Kaunas, Lithuania",54.899723,23.970784,45 14 27,darz.obelele@gmail.com,http://www.obelele.kaunas.lm.lt
+107,191636062,Kauno lopšelis-darželis „Pagrandukas“,"V. Krėvės pr. 58, Kaunas, Lithuania",54.917961,23.97801,31 42 02                                          31 41 80,darzelis@pagrandukas.kaunas.lm.lt,http://www.ldpagrandukas.lt/
+108,291635680,Kauno Panemunės lopšelis-darželis,"Vaidoto g. 26A, Kaunas, Lithuania",54.868607,23.972109,34 58 77                                            34 58 62,panemunes28@gmail.com ,http://www.panemunesld.kaunas.lm.lt
+109,291634240,Kauno lopšelis-darželis „Pasaka“,"V. Krėvės pr. 63a, Kaunas, Lithuania",54.9235,23.973939,31 41 07,pasaka.p@gmail.com,http://www.kaunopasaka.lt
+110,191642154,Kauno sanatorinis lopšelis-darželis „Pienė“,"Birutės g. 9, Kaunas, Lithuania",54.8712,23.973814,34 54 54,info@piene.lt,http://www.piene.lt
+111,191637926,Kauno lopšelis-darželis „Pušaitė“,"Varnių g. 49, Kaunas, Lithuania",54.915409,23.90461,36 30 86                                   36 31 42,ldpusaite@yahoo.com,http://www.kaunopusaite.lt
+112,191635875,Kauno sanatorinis lopšelis-darželis „Pušynėlis“,"Vaidoto g. 7A, Kaunas, Lithuania",54.867736,23.974449,34 58 83                                            34 58 82,ldpusynelis@gmail.com,http://www.pusynelis.kaunas.lm.lt/
+113,191634620,Kauno lopšelis-darželis „Radastėlė“,"Tvirtovės al. 86A, Kaunas, Lithuania",54.912654,23.932954,73 00 80                                                 33 16 43,ldradastele@gmail.com,http://www.radastele.lt
+114,191637011,Kauno lopšelis-darželis „Rasytė“,"Rasytės g. 5, Kaunas, Lithuania",54.932,23.90203,36 28 72                                 36 23 43,rasytesdarzelis@gmail.com,http://www.kaunorasyte.lt
+115,191097825,Kauno lopšelis-darželis „Rokutis“,"Baltaragio g. 2, Kaunas, Lithuania",54.840232,23.941188,43 60 49,ldrokutis@gmail.com,http://www.ldrokutis.lt/
+116,191634588,Kauno  lopšelis-darželis „Sadutė“,"Partizanų g. 122, Kaunas, Lithuania",54.929207,23.982837,31 23 30,sadute@gmail.com,http://www.sadute.kaunas.lm.lt/
+117,191636258,Kauno  lopšelis-darželis „Saulutė“,"V. Krėvės pr. 56, Kaunas, Lithuania",54.918747,23.976987,31 20 33                                             31 20 48,darzelis@kaunosaulute.lt,www.kaunosaulute.lt
+118,191642492,Kauno lopšelis-darželis „Smalsutis“,"Taikos pr. 72, Kaunas, Lithuania",54.910265,23.969219,45 46 20,smalsutis2@gmail.com,http://www.smalsutis.kaunas.lm.lt
+119,191642916,Kauno lopšelis-darželis „Spindulėlis“,"Kalniečių g. 245A, Kaunas, Lithuania",54.92421,23.933309,73 16 94                                             73 17 49,spindulelis_kaunas@hotmail.com,http://spindulelis.com/
+120,191635537,Kauno lopšelis-darželis „Spindulys“,"Sukilėlių pr. 71, Kaunas, Lithuania",54.925788,23.926825,38 67 73                                     38 67 37,dspindulys@takas.lt,http://www.spindulys.kaunas.lm.lt/
+121,191634773,Kauno lopšelis-darželis „Spragtukas“,"Kęstučio g. 44A, Kaunas, Lithuania",54.896198,23.915013,42 24 87,darzelis@spragtukas.lt,http://www.spragtukas.lt/
+122,191638647,Kauno lopšelis-darželis „Svirnelis“,"S. Lozoraičio g. 24, Kaunas, Lithuania",54.919341,23.938338,31 17 35,svirnelisld@gmail.com,http://www.svirnelis.kaunas.lm.lt/
+123,191640484,Kauno Šančių lopšelis-darželis,"Miglovaros g. 14, Kaunas, Lithuania",54.861633,23.940533,34 15 06,sanciudarzelis@gmail.com,http://www.sanciuld.kaunas.lm.lt/
+124,191640712,Kauno lopšelis-darželis „Šarkelė“,"Šarkuvos g. 24, Kaunas, Lithuania",54.932685,23.891702,37 76 00,sarkele@parabole.lt,http://www.sarkele.lt
+125,191643594,Kauno lopšelis-darželis „Šermukšnėlis“,"A. Ramanausko-Vanago g. 6, Kaunas, Lithuania",54.927131,23.945501,31 20 15,ldsermuksnelis@gmail.com,http://sermuksnelis.mir.lt 
+126,191636639,Kauno lopšelis-darželis „Šilelis“,"R. Kalantos g. 118, Kaunas, Lithuania",54.892122,24.011724,45 67 33,sileliskaunas@gmail.com,http://www.kaunosilelis.lt
+127,195093831,Kauno lopšelis-darželis „Šilinukas“,"Pašilės g. 34, Kaunas, Lithuania",54.906477,23.966271,35 31 32,darzelissilinukas34@gmail.com,http://www.silinukas.lt/
+128,191634435,Kauno lopšelis-darželis „Šnekutis“,"Kariūnų pl. 7, Kaunas, Lithuania",54.861527,23.973864,34 58 84,darzelissnekutis@gmail.com,http://www.snekutis.kaunas.lm.lt/
+129,191098012,Kauno Tirkiliškių lopšelis-darželis,"Tirkiliškių g. 47, Kaunas, Lithuania",54.860412,23.869488,39 26 00,tirkdarzelis@gmail.com ,http://www.tirkiliskiudarzelis.lt
+130,191643441,Kauno lopšelis-darželis „Tukas“,"Pakraščio g. 7A, Kaunas, Lithuania",54.923519,23.956491,31 19 78,tukasdm@tukas.kaunas.lm.lt,http://www.tukas.kaunas.lm.lt
+131,191636596,Kauno lopšelis-darželis „Vaidilutė“,"Draugystės g. 5C, Kaunas, Lithuania",54.912882,23.980203,45 60 22,darzelis.vaidilute@gmail.com ,http://www.vaidilute.kaunas.lm.lt
+132,191633486,Kauno lopšelis-darželis „Vaikystė“,"Partizanųg. 42, Kaunas, Lithuania",54.918691,23.959457,31 30 86,info@vaikystes.lt,http://www.vaikystesdarzelis.lt/
+133,191636824,Kauno lopšelis-darželis „Varpelis“,"S. Žukausko g. 17, Kaunas, Lithuania",54.926976,23.939805,38 67 02,varpelisld@gmail.com,http://www.kaunovarpelis.lt/
+134,191641248,Kauno lopšelis-darželis „Vėrinėlis“,"Žiemgalių g. 1, Kaunas, Lithuania",54.922683,23.879103,36 65 99,info@verinelis.lt,http://verinelis.lt
+135,191637883,Kauno lopšelis-darželis „Vilnelė“,"Vytenio g. 8, Kaunas, Lithuania",54.915928,23.8994,36 24 85,ldvilnele@yahoo.com,http://www.darzelisvilnele.lt
+136,191643256,Kauno lopšelis-darželis „Vyturėlis“,"Kalniečių g. 214, Kaunas, Lithuania",54.924361,23.935342,38 67 42,ldv@vyturelis.kaunas.lm.lt,http://www.vytureliskaunas.lt
+137,291640670,Kauno lopšelis-darželis „Volungėlė“,"Rietavo g. 20, Kaunas, Lithuania",54.927048,23.892946,37 76 02,volungele@parabole.lt,http://www.volungele.kaunas.lm.lt
+138,291638790,Kauno Žaliakalnio lopšelis-darželis,"Savanorių pr. 179C, Kaunas, Lithuania",54.908325,23.924864,33 40 05                                         33 45 18,info@kaunozaliakalniold.lt ,http://www.kaunozaliakalniold.lt/
+139,191641390,Kauno lopšelis-darželis „Žara“,"Ašigalio g. 13, Kaunas, Lithuania",54.932822,23.937605,38 67 23 ,zara.darzelis@yahoo.com ,http://www.zara.kaunas.lm.lt
+140,191635918,Kauno lopšelis-darželis „Želmenėlis“,"V. Krėvės pr. 95, Kaunas, Lithuania",54.925657,23.984941,31 24 30,ldzelma@gmail.com,http://www.zelmenelis.lt
+141,191633867,Kauno lopšeli-darželis „Žemyna“,"Kalniečių g. 257, Kaunas, Lithuania",54.925971,23.932234,38 67 63,zemyna@dokeda.lt,http://zemyna.kaunas.lm.lt
+142,191637164,Kauno lopšelis-darželis „Židinėlis“,"Pikulo g. 31, Kaunas, Lithuania",54.920363,23.894513,36 29 60,zidinelisld@gmail.com,http://www.zidinelis.lt
+143,191639749,Kauno lopšelis-darželis „Žiedelis“,"M. Jankaus g. 40A, Kaunas, Lithuania",54.90616,23.939533,73 25 85,lops_darz_ziedelis@yahoo.com,http://ldziedelis.lt
+144,191639215,Kauno lopšelis-darželis „Žilvitis“,"Hipodromo g. 70, Kaunas, Lithuania",54.875051,23.950792,34 14 10,ld-zilvitis.kaunas@centras.lt,http://www.zilvitis.kaunas.lm.lt/ 
+145,191643637,Kauno lopšelis-darželis „Žingsnelis“,"Rasytės g. 9, Kaunas, Lithuania",54.932903,23.90465,46 01 65,darzelis@zingsnelis.kaunas.lm.lt,http://www.zingsnelis.kaunas.lm.lt
+146,191639368,Kauno lopšelis-darželis „Žuvintas“,"Žuvinto g. 8, Kaunas, Lithuania",54.898735,23.955567,34 83 85,zuvintodarzelis@gmail.com,http://www.zuvintas.kaunas.lm.lt
+147,191640527,Kauno lopšelis-darželis „Žvangutis“,"Šarkuvos g. 21, Kaunas, Lithuania",54.933817,23.891891,37 76 31,zvangutis@dokeda.lt,http://www.kaunozvangutis.lt
+148,191633671,Kauno 6-asis lopšelis-darželis,"A. Mickevičaus  g. 54, Kaunas, Lithuania",54.899801,23.918861,22 65 77,6lopselis.darzelis@gmail.com,http://www.6lopselis-darzelis.lt
+149,191636443,Kauno vaikų darželis „Dvarelis“,"Amerikos lietuvių g. 9, Kaunas, Lithuania",54.890506,23.88837,39 14  04,vd.dvarelis@gmail.com,http://www.36vd.kaunas.lm.lt
+150,191643060,Kauno menų darželis „Etiudas“,"V. Krėvės pr. 105A, Kaunas, Lithuania",54.926535,23.990273,31 39 91,etiudas@dr.com,http://www.etiudas.kaunas.lm.lt/
+151,291643780,Kauno vaikų darželis „Nykštukas“,"Seinų g. 7, Kaunas, Lithuania",54.906581,23.917864,73 08 09,vdnykstukas@gmail.com,http://www.nykstukas.kaunas.lm.lt/
+152,191636781,Kauno vaikų darželis „Raudonkepuraitė“,"Trakų g. 33, Kaunas, Lithuania",54.892556,23.929635,42 32 14,darzelis@rkepuraite.lt,http://www.rkepuraite.kaunas.lm.lt 
+153,300047704,Viešoji įstaiga Kauno vaikų darželis „Rytmetys“,"Anykščių g. 1, Kaunas, Lithuania",54.910174,23.914505,79 89 76,darzelis@rytmetys.kaunas.lm.lt ,http://www.rytmetys.kaunas.lm.lt/
+154,191636977,Kauno vaikų darželis „Rudnosiukas“,"Betonuotojų g. 3, Kaunas, Lithuania",54.889581,24.003178,35 02 78,rudnosiukasdarzelis@gmail.com,http://darzelisrudnosiukas.lt 
+155,191641814,Kauno Valdorfo darželis „Šaltinėlis“,"K. Baršausko g. 84, Kaunas, Lithuania",54.89977,23.97196,45 14 26,saltinelisvd@gmail.com,http://www.saltinelis-vd.lt
+156,191641433,Kauno vaikų darželis „Vaivorykštė“,"Geležinio Vilko g. 9, Kaunas, Lithuania",54.927561,23.964258,31 36 03,vaivorykste@kalnieciai.lt,http://www.vaivorykste.kaunas.lm.lt/
+157,191634054,Kauno vaikų darželis „Žiogelis“,"Vaistinės skg. 8, Kaunas, Lithuania",54.902186,23.913963,42 38 36,kaunoziogelis@gmail.com,http://www.darzelis-ziogelis.lt
+158,191635156,Kauno mokykla-darželis „Rūtelė“,"Kalniečių g. 167, Kaunas, Lithuania",54.915235,23.93142,33 24 71,rutelesdm@rutele.kaunas.lm.lt,http://rutele.kaunas.lm.lt
+159,191634816,Kauno mokykla-darželis „Šviesa“,"Rimvydo g. 20, Kaunas, Lithuania",54.909723,23.951185,33 31 46,katalikiska@sviesa.kaunas.lm.lt,http://www.sviesa.kaunas.lm.lt/
+160,191094715,Kauno Tirkiliškių mokykla-darželis,"M. Yčo g. 2, Kaunas, Lithuania",54.859876,23.868537,39 26 11,tirkiliskiumd@tirkiliskiupradine.lt,http://www.tirkiliskiupradine.lt
+161,290140580,Kauno Motiejaus Valančiaus mokykla-darželis,"Kranto 5-oji g. 7, Kaunas, Lithuania",54.871581,23.931972,34 14 06,pradinem@pradine.kaunas.lm.lt,http://www.valanciauspradine.lt/
+162,191846114,Kauno Montesori mokykla-darželis „Žiburėlis“,"Verkių g. 36, Kaunas, Lithuania",54.888162,23.953853,34 80 61,zibureliodm@ziburelis.kaunas.lm.lt,http://www.ziburelis.kaunas.lm.lt/
+163,191829531,Kauno Vinco Bacevičiaus pradinė mokykla,"Savanorių pr. 91, Kaunas, Lithuania",54.903399,23.913395,42 29 53,pradine@vbacevicius.kaunas.lm.lt ,http://www.vbacevicius.kaunas.lm.lt
+164,191642688,Kauno Prano Mašioto pradinė mokykla,"Rasytės g. 1, Kaunas, Lithuania",54.930805,23.899064,23 60 98,masiotoprm@masiotas.kaunas.lm.lt,http://www.masiotas.kaunas.lm.lt/
+165,190140775,Kauno Panemunės pradinė mokykla,"Kariūnų pl. 5, Kaunas, Lithuania",54.862397,23.973953,34 58 81,panemun@panemune.kaunas.lm.lt,http://www.panemune.kaunas.lm.lt/
+166,190140622,Kauno „Paparčio“ pradinė mokykla,"Šiaurės pr. 35, Kaunas, Lithuania",54.930068,23.960232,31 20 38,papartis@papartis.kaunas.lm.lt,http://www.papartis.kaunas.lm.lt
+167,191828963,Kauno „Ryto“ pradinė mokykla,"Šarkuvos g. 29, Kaunas, Lithuania",54.933686,23.894608,37 76 15,rytas@rytas.kaunas.lm.lt,http://www.rytas.kaunas.lm.lt/
+168,191824228,Kauno Suzukio pradinė mokykla,"Šiaurės pr. 23, Kaunas, Lithuania",54.929925,23.964423,31 20 34,pradine@suzukimokykla.kaunas.lm.lt,http://suzukimokykla.kaunas.lm.lt/ 
+169,191829150,Kauno „Šilo“ pradinė mokykla,"Kariūnų pl. 3, Kaunas, Lithuania",54.863722,23.974976,34 58 73,siloprm@silas.kaunas.lm.lt,http://www.silas.kaunas.lm.lt/
+170,195096037,Kauno „Varpelio“ pradinė mokykla,"Vakarų g. 15, Kaunas, Lithuania",54.910417,23.958846,33 14 21,pradine@varpeliom.kaunas.lm.lt,http://www.varpeliom.kaunas.lm.lt
+171,290136920,Vytauto Didžiojo universiteto „Atžalyno“ progimnazija,"Partizanų g. 46, Kaunas, Lithuania",54.919233,23.961944,31 19 73,atzalynovm@atzalynas.kaunas.lm.lt,http://www.atzalynas.kaunas.lm.lt/
+172,190137793,Kauno Dainavos progimnazija,"Partizanų g. 118, Kaunas, Lithuania",54.928245,23.983335,31 20 24,dainavosvm@dainava.kaunas.lm.lt,http://www.dainava.kaunas.lm.lt/
+173,190136734,Kauno Simono Daukanto progimnazija,"Taikos pr. 68, Kaunas, Lithuania",54.910897,23.967978,45 38 53,progimnazija@daukantas.kaunas.lm.lt,http://www.daukantas.kaunas.lm.lt/
+174,190135785,Kauno Jurgio Dobkevičiaus progimnazija,"V. Čepinskio g. 7, Kaunas, Lithuania",54.890035,23.885826,39 14 21,progimnazija@dobkevicius.kaunas.lm.lt,http://www.dobkevicius.kaunas.lm.lt/
+175,190138938,Kauno Kazio Griniaus progimnazija,"Šiaurės pr. 97, Kaunas, Lithuania",54.92853,23.932517,38 67 48,info@kgm.lt,http://www.kgm.lt/
+176,190139278,Kauno Tado Ivanausko progimnazija,"Vėtrungės g. 1, Kaunas, Lithuania",54.932598,23.899183,36 02 45,info@ktip.lt,www.ktip.lt
+177,190138219,Kauno šv. Kazimiero progimnazija,"Vandžiogalos g. 51, Kaunas, Lithuania",54.950658,23.888764,48 89 67,mokykla@svkazimieras.kaunas.lm.lt,http://www.svkazimieras.kaunas.lm.lt/
+178,190134345,Kauno Vinco Kudirkos progimnazija,"Trakų g. 39, Kaunas, Lithuania",54.89117,23.928943,42 30 42,progimnazija@kudirka.kaunas.lm.lt,http://www.kudirka.kaunas.lm.lt/
+179,190137455,Kauno Viktoro Kuprevičiaus progimnazija,"Kovo 11-osios g. 94, Kaunas, Lithuania",54.91781,23.975901,31 20 81,kupreviciausvm@kuprevicius.kaunas.lm.lt,http://www.kuprevicius.kaunas.lm.lt/
+180,190138176,Kauno Martyno Mažvydo progimnazija ,"Šiaurės pr. 55, Kaunas, Lithuania",54.930366,23.953913,31 20 49,mazvydovm@mazvydas.kaunas.lm.lt,http://www.mazvydas.kaunas.lm.lt/
+181,190139997,Kauno Milikonių progimnazija ,"Baltijos g. 30, Kaunas, Lithuania",54.925069,23.885627,37 75 24,milikoniuvm@milikoniai.kaunas.lm.lt,http://www.milikoniai.kaunas.lm.lt/
+182,191824947,Kauno Petrašiūnų progimnazija,"T. Masiulio g. 10, Kaunas, Lithuania",54.890184,24.004091,45 64 79,progimnazija@petrasiunai.kaunas.lm.lt,http://www.petrasiunai.kaunas.lm.lt
+183,190138742,Kauno Pilėnų progimnazija ,"Šiaurės pr. 73, Kaunas, Lithuania",54.929793,23.939319,38 65 84,pilenuvm@pilenai.kaunas.lm.lt,http://www.pilenai.kaunas.lm.lt/
+184,191816085,Kauno Senamiesčio progimnazija,"Nemuno g. 12, Kaunas, Lithuania",54.895489,23.900387,22 24 44,senamprm@senamiestis.kaunas.lm.lt,http://www.senamiestis.kaunas.lm.lt/
+185,190134498,Kauno technologijos universiteto Vaižganto progimnazija,"Skuodo g. 27, Kaunas, Lithuania",54.877102,23.94242,34 14 12,mokykla@ktuprogimnazija.lt,http://www.ktuvaizgantas.kaunas.lm.lt/
+186,190135970,Kauno Žaliakalnio progimnazija,"Širvintų g. 15, Kaunas, Lithuania",54.908119,23.919637,33 13 92,rastine@zaliakalnis.kaunas.lm.lt,http://www.zaliakalnis.kaunas.lm.lt/
+187,190983430,Kauno Prano Daunio ugdymo centras,"Taikos pr. 6A, Kaunas, Lithuania",54.910922,23.93855,33 18 24                                                26 92 20,kaunosim@gmail.com,http://www.kasuc.lm.lt/
+188,190983398,Kauno kurčiųjų ir neprigirdinčiųjų ugdymo centras,"Uosio g. 7, Kaunas, Lithuania",54.916686,23.936217,33 18 72,neprigir@nim.kaunas.lm.lt,http://www.nim.kaunas.lm.lt
+189,290983050,Kauno Jono Laužiko mokykla,"Tunelio g. 41 , Kaunas, Lithuania",54.897329,23.952685,35 10 99,kauno1sim@yahoo.com,http://kauno1sm.puslapiai.lt/
+190,190137074,Kauno Juozo Urbšio katalikiška pagrindinė mokykla,"Partizanų g. 68, Kaunas, Lithuania",54.923778,23.971399,31 10 88,urbsiovm@urbsys.kaunas.lm.lt,http://urbsys.kaunas.lm.lt
+191,191090994,Kauno Vaišvydavos pagrindinė mokykla,"Vaišvydo g. 28, Kaunas, Lithuania",54.84758,24.022246,38 38 54,vaisvydavosvm@vaisvydava.kaunas.lm.lt,http://www.vaisvydava.kaunas.lm.lt/
+192,190137640,Kauno „Žiburio“ pagrindinė mokykla,"Verkių g. 30, Kaunas, Lithuania",54.888677,23.952344,34 80 28, rastine@ziburys.kaunas.lm.lt,http://www.ziburys.kaunas.lm.lt/
+193,190138361,Kauno Bernardo Brazdžionio mokykla,"Partizanų g. 22, Kaunas, Lithuania",54.914408,23.949373,31 20 04,rastine@brazdzionis.kaunas.lm.lt,http://www.brazdzionis.kaunas.lm.lt/
+194,190136168,Kauno „Nemuno“ mokykla-daugiafunkcis centras,"A. ir J. Gravrogkų g. 9, Kaunas, Lithuania",54.898846,23.969982,45 44 19,nemunovm@nemunas.kaunas.lm.lt,http://www.nemunas.kaunas.lm.lt/ 
+195,190138023,Kauno Aleksandro Stulginskio mokykla-daugiafunkcis centras,"Partizanų g. 152, Kaunas, Lithuania",54.927945,23.98649,31 20 88,stulginskiovm@stulginskis.kaunas.lm.lt    aleksandras.stulginskis@gmail.com,http://www.stulginskio-mokykla.lt/
+196,190134530,Kauno Šančių mokykla-daugiafunkcis centras,"Vokiečių g. 164, Kaunas, Lithuania",54.861586,23.942525,34 15 09,sanciai@sanciai.kaunas.lm.lt,http://www.sanciai.kaunas.lm.lt/
+197,190136549,Kauno Jono ir Petro Vileišių mokykla,"Demokratų g. 36, Kaunas, Lithuania",54.917137,23.903256,36 28 27,mokykla@vileisis.kaunas.lm.lt,https://vileisiumokykla.lt
+198,290137260,Kauno Jono Žemaičio-Vytauto mokykla-daugiafunkcis centras,"Radvilėnų pl. 7, Kaunas, Lithuania",54.906659,23.946126,33 20 59                                                33 18 61,radvilenuvm@radvilenai.kaunas.lm.lt,http://www.radvilenuvm.lt/ 
+199,195091976,Kauno jaunimo mokykla,"Sandėlių g. 7, Kaunas, Lithuania",54.870643,23.943242,45 71 35,kaunojaunimomokykla@gmail.com ,http://www.kjm.kaunas.lm.lt
+200,191846452,Kauno Tito Masiulio jaunimo mokykla,"Pramonės pr. 35, Kaunas, Lithuania",54.915203,23.983353,45 13 84,masiuliojm@masiulis.kaunas.lm.lt,http://www.masiulis.kaunas.lm.lt/
+201,295093070,Kauno suaugusiųjų mokymo centras,"Sandėlių g. 7, Kaunas, Lithuania",54.870643,23.943242,34 14 00,info@ksmc.lt,http://www.ksmc.lt
+202,190133777,Kauno „Aušros“ gimnazija,"Laisvės al. 95, Kaunas, Lithuania",54.897526,23.903534,42 47 70,ausra@ausra.kaunas.lm.lt,http://www.ausra.kaunas.lm.lt
+203,195094214,Kauno „Aitvaro“ mokykla,"Technikos g. 34, Kaunas, Lithuania",54.904995,24.007067,35 24 82,rastine@kaunoaitvaromokykla.lt,http://www.aitvaras.kaunas.lm.lt/
+204,190139463,Kauno Jono Basanavičiaus gimnazija,"Šarkuvos g. 28, Kaunas, Lithuania",54.932751,23.893156,23 99 35,gimnazija@jbasanavicius.kaunas.lm.lt,http://www.jbasanavicius.kaunas.lm.lt/
+205,290134150,Kauno Stepono Dariaus ir Stasio Girėno gimnazija,"Miško g. 1, Kaunas, Lithuania",54.89343,23.924483,42 41 72,dgg@darius-girenas.kaunas.lm.lt,http://www.darius-girenas.kaunas.lm.lt/
+206,190133962,Kauno Gedimino sporto ir sveikatinimo gimnazija,"Aukštaičių g. 78, Kaunas, Lithuania",54.903445,23.933417,42 55 64,gediminog@gediminas.kaunas.lm.lt,http://www.gediminas.kaunas.lm.lt/
+207,190139659,Kauno Juozo Grušo meno gimnazija,"Šarkuvos g. 30, Kaunas, Lithuania",54.931548,23.893082,37 76 27,grusovm@grusas.kaunas.lm.lt,http://www.grusas.kaunas.lm.lt/
+208,190136353,Kauno technologijos universiteto inžinerijos licėjus,"S. Lozoraičio g. 13, Kaunas, Lithuania",54.920053,23.935999,31 20 60,rastine@inzinerijoslicejus.ktu.edu,http://inzinerijoslicejus.ktu.edu
+209,191825091,Kauno Jono Jablonskio gimnazija,"Aušros g. 3, Kaunas, Lithuania",54.903354,23.919507,20 23 37,jablonskiog@jablonskis.kaunas.lm.lt,http://www.jablonskis.kaunas.lm.lt/
+210,190136691,Kauno Kovo 11-osios gimnazija,"Kovo 11-osios g. 50, Kaunas, Lithuania",54.909732,23.97784,45 14 18,kovo11vm@kovo11.kaunas.lm.lt,http://www.kovo11.kaunas.lm.lt/
+211,290133810,Kauno Maironio universitetinė gimnazija,"Gimnazijos g. 3, Kaunas, Lithuania",54.897268,23.895728,42 26 87,maironioug@kmug.lt,http://www.kmug.lt/
+212,190137989,Kauno Palemono gimnazija,"Marių g. 37, Kaunas, Lithuania",54.909034,24.056272,37 36 25,palemonovm@palemonas.kaunas.lm.lt,http://www.palemonas.kaunas.lm.lt
+213,300117533,Generolo Povilo Plechavičiaus kadetų licėjus,"Žeimenos g. 66, Kaunas, Lithuania",54.925114,23.923572,8 671 19781,cadet@plechavicius.lt,https://www.plechavicius.kaunas.lm.lt/
+214,190135447,Prezidento Valdo Adamkaus gimnazija,"Bitininkų g. 31, Kaunas, Lithuania",54.866653,23.899899,42 04 00                                     8 683 96829,rastine@adamkausgimnazija.lt,http://www.adamkausgimnazija.lt
+215,300594100,Kauno Aleksandro Puškino gimnazija,"Vytauto pr. 50, Kaunas, Lithuania",54.894495,23.925459,42 23 83,puskinovm@puskinas.kaunas.lm.lt,http://www.puskinas.kaunas.lm.lt/
+216,190138557,Vytauto Didžiojo universiteto „Rasos“ gimnazija,"P. Lukšio g. 40 , Kaunas, Lithuania",54.926913,23.957973,31 23 64,rasosg@rasa.kaunas.lm.lt,http://www.rasa.kaunas.lm.lt/
+217,191090841,Kauno Rokų gimnazija,"Vijūnų g. 2, Kaunas, Lithuania",54.843131,23.93901,43 60 36,gimnazija@rokai.kaunas.lm.lt,http://www.rokai.kaunas.lm.lt/
+218,190139844,Kauno „Santaros“ gimnazija,"Baltų pr. 51, Kaunas, Lithuania",54.926786,23.883712,37 75 39,santarosvm@santara.kaunas.lm.lt,http://www.santara.kaunas.lm.lt/
+219,190797479,Kauno specialioji mokykla,"Apuolės g. 11 , Kaunas, Lithuania",54.917275,23.88268,36 30 47,kauno.specialioji@kvp.lt ,http://www.kvp.lt
+220,190134683,Kauno „Saulės“ gimnazija,"Savanorių pr. 46, Kaunas, Lithuania",54.902352,23.912229,42 32 39,saulesg@saule.kaunas.lm.lt,http://www.saule.kaunas.lm.lt
+221,190139310,Kauno Antano Smetonos gimnazija,"Geležinio Vilko g. 28, Kaunas, Lithuania",54.92891,23.961238,31 19 80,gimnazija@asmetona.kaunas.lm.lt,http://www.asmetonosgimnazija.lt/
+222,195090340,Kauno Vandos Tumėnienės ugdymo centras,"Kiaunių g. 2 , Kaunas, Lithuania",54.880713,23.983434,34 50 52,vtugdymocentras@gmail.com,http://www.rcm.kaunas.lm.lt
+223,190138895,Kauno „Varpo“ gimnazija,"Rytų g. 19, Kaunas, Lithuania",54.908713,23.958959,38 04 55,varpog@varpas.kaunas.lm.lt,http://www.varpas.kaunas.lm.lt/
+224,190135828,Kauno Veršvų gimnazija,"Mūšos g. 6, Kaunas, Lithuania",54.911161,23.855741,36 26 21,gimnazija@versvos.kaunas.lm.lt,http://www.versvugimnazija.lt
+225,190136887,Kauno „Vyturio“ gimnazija,"Taikos pr. 51, Kaunas, Lithuania",54.912972,23.96173,33 25 72,vyturiovm@vyturys.kaunas.lm.lt,http://www.vyturys.kaunas.lm.lt/
+226,190144453,Kauno Aleksandro Kačanausko muzikos mokykla ,"Aušros g. 32, Kaunas, Lithuania",54.90401,23.924866,79 69 50,a.kacanauskas@gmail.com,http://www.kacanauskas.kaunas.lm.lt/
+227,190144791,Kauno Miko Petrausko muzikos mokykla ,"V. Krėvės pr. 54, Kaunas, Lithuania",54.919332,23.976022,31 20 53,mpmm@mpetrausko.kaunas.lm.lt,http://www.mpetrausko.kaunas.lm.lt/
+228,190144834,Kauno sakralinės muzikos mokykla ,"M. Valančiaus g. 8, Kaunas, Lithuania",54.897845,23.888501,42 57 41,info@cantoresdavid.lt,http://www.cantoresdavid.lt
+229,190144268,Kauno berniukų chorinio dainavimo mokykla „Varpelis“,"D. Poškos g. 4, Kaunas, Lithuania",54.895667,23.903435,32 04 86,varpeliomm@varpelis.kaunas.lm.lt,http://www.varpelis.com/
+230,190144649,Kauno 1-oji muzikos mokykla ,"J. Gruodžio g. 25, Kaunas, Lithuania",54.896804,23.899627,42 28 34,k1mminfo@gmail.com,https://k1mm.kaunas.lm.lt/
+231,190144072,Kauno Antano Martinaičio dailės mokykla ,"Šv. Gertrūdos g. 33, Kaunas, Lithuania",54.898842,23.892066,20 35 34,info@kamdaile.lt ,http://www.kamdaile.lt/
+232,295095840,Kauno choreografijos mokykla ,"V. Krėvės pr. 50 , Kaunas, Lithuania",54.919559,23.973815,36 16 14,direktorius@sokis.kaunas.lm.lt,http://www.sokis.kaunas.lm.lt/
+233,191829684,Mstislavo Dobužinskio rusų kultūros ir estetinio lavinimo centras ,"V. Krėvės pr. 54, Kaunas, Lithuania",54.919332,23.976022,31 30 39,mdkcentras@gmail.com,http://www.mdkc.lt/
+234,290143690,Kauno jaunųjų turistų centras ,"Žeimenos g. 58, Kaunas, Lithuania",54.924368,23.930366,42  27 50,jturistai@gmail.com,http://www.jturistai.kaunas.lm.lt/
+235,190143885,Kauno moksleivių aplinkotyros centras ,"Šeštokų g. 30, Kaunas, Lithuania",54.860148,23.893938,39 00 64,kaunasmac@gmail.com,http://www.aplinkotyroscentras.kaunas.lm.lt/
+236,190143928,Kauno moksleivių techninės kūrybos centras ,"A.Mickevičiaus g. 2, Kaunas, Lithuania",54.893049,23.917221,32 35 82,mtkc.kaunas@gmail.com,http://www.mtkc.lt/
+237,195470830,Kauno tautinės kultūros centras ,"A. Jakšto g. 18, Kaunas, Lithuania",54.89919,23.887815,40 71 35,ktkc.info@gmail.com,http://www.ktkc.lt/
+238,190143732,Kauno vaikų ir moksleivių laisvalaikio rūmai ,"Parodos g. 26, Kaunas, Lithuania",54.898566,23.931179,42 32 05,vmlrumai@gmail.com ,http://www.vmlr.lt/
+239,191830081,Kauno vaikų ir jaunimo teatras „Vilkolakis“,"Kovo 11-osios g. 108, Kaunas, Lithuania",54.922044,23.972576,31 37 12,teatras.vilkolakis@gmail.com,http://vilkolakis.lt/
+240,190143547,Kauno Algio Žikevičiaus saugaus vaiko mokykla ,"Ašigalio g. 23, Kaunas, Lithuania",54.932248,23.933206,32 32 00,saugusvaikas@gmail.com,http://www.saugusvaikas.kaunas.lm.lt/
+241,193043096,Kauno pedagogų kvalifikacijos centras,"Vytauto pr. 44, Kaunas, Lithuania",54.890928,23.925051,32 41 57,info@kpkc.lt,http://www.kpkc.lt
+242,193106269,Kauno pedagoginė psichologinė tarnyba,"A. Mickevičiaus g. 54, Kaunas, Lithuania",54.899801,23.918861,42 32 84,info@kppt.lm.lt,www.kppt.lm.lt
